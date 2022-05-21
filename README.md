@@ -30,14 +30,3 @@ open your browser and open main project route index.php like that
 ```bash
 ./vendor/bin/phpunit
 ```
-
-
-
-
-
-
-
-
-
-
-# loger
